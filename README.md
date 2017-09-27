@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="250" src="https://camo.githubusercontent.com/18fe3feea5e3593c593e12e552494a3995eceacf/687474703a2f2f6b616d696c6d79736c69776965632e636f6d2f7075626c69632f6e6573742d6c6f676f2e706e672331" alt="Awesome">
+	<img width="250" src="http://nestjs.com/img/logo.png" alt="Awesome">
   <br>
   <center>
     <strong>Awesome Nest</strong>
@@ -27,7 +27,6 @@
   - Exampes
     - [Nest starter](https://github.com/kamilmysliwiec/nest-typescript-starter) The Nest framework starter repository
 - Community
-  - [Gitter](https://gitter.im/nestjs/)
 - Tutorials
   - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
   - [Build web applications with Nest](https://kamilmysliwiec.com/build-modern-scalable-node-js-web-applications-with-nest)
@@ -42,11 +41,13 @@
 
 ## Components & Libraries
 - Utilities
+  - [nest-cqrs](https://github.com/kamilmysliwiec/nest-cqrs) A lightweight CQRS module for Nest framework
 - Typescript
 - i18n
 - Custom Events
 - Persistence
 - State Management
+  - [ngrx-nest](https://github.com/derekkite/ngrx-nest) ngrx/store and ngrx/effects on the server using the nest framework.
 - Code Style
   - [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) An unofficial TypeScript StyleGuide
 - Migration
@@ -63,6 +64,8 @@
     - [nest-sequelize-jwt](https://github.com/adrien2p/nest-js-sequelize-jwt) Starter kit Nest + Sequelize + jwt
   - GraphQL
     - [nest-js-graphql](https://github.com/adrien2p/nest-js-graphql) Nest-js starter which implement graphql module
+  - Pattern
+    - [nest-grpc-transport](https://github.com/fresh8/nestjs-grpc-transport) GRPC transport layer for the NestJS framework
 
 ## Runtime
   - Command Line / Terminal  

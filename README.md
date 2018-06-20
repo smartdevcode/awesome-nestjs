@@ -29,6 +29,7 @@
     - [javascript-starter](https://github.com/nestjs/javascript-starter) Nest framework JavaScript (ES6 / ES7 / ES8) starter.
 - Community
   - [Gitter](https://gitter.im/nestjs/)
+  - [Telegram] (https://t.me/nestjs)
 - Tutorials
   - [Introduction to modern Node.js framework](https://kamilmysliwiec.com/nest-release-canditate-is-here-introduction-modern-node-js-framework)
   - [NestJS Node Express](https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express) Teach how to use NestJS step by step
@@ -40,7 +41,6 @@
   - [Build a chat app with sentiment analysis using Nest.js](https://pusher.com/tutorials/chat-sentiment-analysis-nestjs)
   - [Create a realtime graph using Nest.js](https://pusher.com/tutorials/realtime-graph-nestjs)
   - [Build a realtime table with DataTables and Nest.js](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
-  - [NestJS Basic Auth and Sessions](http://blog.exceptionfound.com/index.php/2018/06/07/nestjs-basic-auth-and-sessions/)
 - Examples
   - [ChatServer](https://github.com/Pinedo11/nestDemo-ChatServer) Server side of Chat App implemented using Nest
   - [nest-js-api-ai](https://github.com/adrien2p/nest-js-api-ai) Interact with api.ai in node.js

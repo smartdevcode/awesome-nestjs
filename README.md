@@ -62,6 +62,7 @@
   - [Nest-BFF](https://github.com/ahrnee/nestjs-bff) A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
   - [nestjs-template](https://github.com/Saluki/nestjs-template) Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments 
   - [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
+  - [💡 NestJS Boilerplate 💡](https://github.com/Vivify-Ideas/nestjs-boilerplate) Boilerplate with available authentication, typeorm, env configuration and swagger. Everything you need to start making great things. 🚀
 - Books
 - Conferences
 
@@ -126,6 +127,8 @@
     - [nestjs-snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) Vscode nestjs code Snippets
 - AMQP
   - [nestjs-amqp](https://github.com/nestjs-community/nestjs-amqp) An amqp connection manager 
+- Payment Gateways 
+  - [nestjs-braintree](https://github.com/nestjs-community/nestjs-braintree) A module for webhooks and transactions
 
 ## Runtime
 

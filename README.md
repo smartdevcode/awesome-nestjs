@@ -106,7 +106,7 @@
   - [Nest Mailer](https://github.com/partyka95/nest-mailer) - A mailer module for Nest framework.
 - API
   - [Swagger](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
-  - [Nest CRUD](https://github.com/zMotivat0r/nest-crud) - Nest CRUD for RESTful APIs.
+  - [Nest CRUD](https://github.com/nestjsx/crud) - Nest CRUD for RESTful APIs.
 - Middleware
   - [Nest Middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS.
 - Errors
@@ -132,6 +132,7 @@
   - [Nestjs + Auth0](https://github.com/cdiaz/nestjs-auth0) - NestJS Framework web application with Auth0.
 - Databases
   - [Typeorm](https://github.com/nestjs/typeorm) - A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
+  - [Nest Typeorm Factories](https://github.com/owl1n/typeorm-factories) - A TypeORM Entities factories. Useful for NestJS unit testing.
   - [Nest Mongoose](https://github.com/nestjs/mongoose) - A Mongoose module for Nest framework.
   - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
   - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger

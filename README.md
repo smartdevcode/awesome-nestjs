@@ -80,7 +80,7 @@
   - [NestJS Boilerplate 💡](https://github.com/Vivify-Ideas/nestjs-boilerplate) - Boilerplate with available authentication, typeorm, env configuration and swagger. Everything you need to start making great things. 🚀
   - [Awesome Nest Boilerplate 😍](https://github.com/NarHakobyan/awesome-nest-boilerplate), Typescript 💪, Postgresql 🎉, TypeORM, Swagger for Api documentation, Role base access control, and best application architecture.
   - [NestJS Prisma Starter](https://github.com/fivethree-team/nestjs-prisma-client-starter) - Starter project for NestJS 😻 includes Graphql with Prisma Client, Passport-JWT authentication, Swagger Api and Docker
-
+  - [TeanJS](https://github.com/adrien2p/teanjs) - TeanJS is a starter that provides you all the keys to be able to start writing your code as quickly as possible 😻
 ## Projects using NestJS
 
 - Open Source
@@ -156,8 +156,6 @@
   - [Nest Memcached](https://github.com/nest-cloud/nest-memcached) - A memcached module for Nest framework.
 - Frontend
   - [NestJS CRUD React Admin](https://github.com/FusionWorks/react-admin-nestjsx-crud-dataprovider) - A React Admin data provider for [NextJS CRUD](https://github.com/nestjsx/crud)
-- Scheduling
-  - [Nest Bull](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework :cow:
 
 ## Runtime
 

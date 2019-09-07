@@ -72,6 +72,7 @@
   - [Nestcloud Starter](https://github.com/nest-cloud/nestcloud-starter) - Quickly start a micro-service app use nestcloud.
   - [Nodepress](https://github.com/surmon-china/nodepress) - A RESTful API server application for Blog CMS using Nest. 😎
   - [Serverless-Lambda-DynamoDB](https://github.com/International-Slackline-Association/Rankings-Backend) - A fully SERVERLESS in-production application with AWS Lambda, DynamoDB, DynamoDB Streams...
+  - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) Starter project that includes API for user email authentication with MongoDB and PassportJs.
 - Boilerplate
   - [Nest starter kit](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
   - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
@@ -136,7 +137,6 @@
 - Databases
   - [Typeorm](https://github.com/nestjs/typeorm) - A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
   - [Nest Mongoose](https://github.com/nestjs/mongoose) - A Mongoose module for Nest framework.
-  - [Nest Typegoose](https://github.com/kpfromer/nestjs-typegoose) - A [Typegoose](https://github.com/szokodiakos/typegoose) module for Nest framework
   - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
   - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
 - GraphQL

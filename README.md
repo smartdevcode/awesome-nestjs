@@ -16,11 +16,14 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Resources](#resources)
 - [Projects using NestJS](#projects-using-nestjs)
 - [Components & Libraries](#components--libraries)
 - [Integrations](#integrations)
 - [Runtime](#runtime)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Resources
 
@@ -72,6 +75,7 @@
   - [Nestcloud Starter](https://github.com/nest-cloud/nestcloud-starter) - Quickly start a micro-service app use nestcloud.
   - [Nodepress](https://github.com/surmon-china/nodepress) - A RESTful API server application for Blog CMS using Nest. 😎
   - [Serverless-Lambda-DynamoDB](https://github.com/International-Slackline-Association/Rankings-Backend) - A fully SERVERLESS in-production application with AWS Lambda, DynamoDB, DynamoDB Streams...
+  - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) Starter project that includes API for user email authentication with MongoDB and PassportJs.
 - Boilerplate
   - [Nest starter kit](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
   - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
@@ -80,7 +84,7 @@
   - [NestJS Boilerplate 💡](https://github.com/Vivify-Ideas/nestjs-boilerplate) - Boilerplate with available authentication, typeorm, env configuration and swagger. Everything you need to start making great things. 🚀
   - [Awesome Nest Boilerplate 😍](https://github.com/NarHakobyan/awesome-nest-boilerplate), Typescript 💪, Postgresql 🎉, TypeORM, Swagger for Api documentation, Role base access control, and best application architecture.
   - [NestJS Prisma Starter](https://github.com/fivethree-team/nestjs-prisma-client-starter) - Starter project for NestJS 😻 includes Graphql with Prisma Client, Passport-JWT authentication, Swagger Api and Docker
-
+  - [TeanJS](https://github.com/adrien2p/teanjs) - TeanJS is a starter that provides you all the keys to be able to start writing your code as quickly as possible 😻
 ## Projects using NestJS
 
 - Open Source
@@ -137,6 +141,7 @@
 - Databases
   - [Typeorm](https://github.com/nestjs/typeorm) - A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
   - [Nest Mongoose](https://github.com/nestjs/mongoose) - A Mongoose module for Nest framework.
+  - [Nest Typegoose](https://github.com/kpfromer/nestjs-typegoose) - A [Typegoose](https://github.com/szokodiakos/typegoose) module for Nest framework
   - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.
   - [Nest sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger
 - GraphQL
@@ -151,12 +156,15 @@
   - [Nestjs AMQP](https://github.com/nestjsx/nestjs-amqp) - An amqp connection manager.
 - Payment Gateways
   - [Nestjs Braintree](https://github.com/nestjsx/nestjs-braintree) - A module for webhooks and transactions.
+  - [Nestjs Stripe](https://github.com/dhaspden/nestjs-stripe) - A module for injecting a configured Stripe client into your services.
 - Consul
   - [Nest Consul](https://github.com/nest-cloud/nestcloud) - A NodeJS micro-service solution based on Consul, writing by Typescript language and NestJS framework.
 - Cache
   - [Nest Memcached](https://github.com/nest-cloud/nest-memcached) - A memcached module for Nest framework.
 - Frontend
   - [NestJS CRUD React Admin](https://github.com/FusionWorks/react-admin-nestjsx-crud-dataprovider) - A React Admin data provider for [NextJS CRUD](https://github.com/nestjsx/crud)
+- Scheduling
+  - [Nest Bull](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework :cow:
 
 ## Runtime
 

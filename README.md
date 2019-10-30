@@ -129,6 +129,7 @@
   - [Nest Pino](https://github.com/iamolegga/nestjs-pino) - Pino module for nestjs 😮 Log with request context in any place 😍
 - Monitoring
   - [Nest Status Monitor](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for Nest.js based node servers.
+  - [Nest Terminus](https://github.com/nestjs/terminus) - Integrated healthchecks, based on [Terminus](https://github.com/godaddy/terminus) package.
 - i18n
   - [Nest i18n](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
 ## Integrations
@@ -170,11 +171,6 @@
   - [CLI](https://github.com/nestjs/nest-cli) - CLI tool for Nestjs applications.
   - [Yeoman Generator](https://github.com/ashinzekene/generator-nestjs-app) - A yeoman generator for nestsjs apps.
   - [Nestjs Console](https://github.com/Pop-Code/nestjs-console) - A Nestjs module that provide a cli to application.
-  
-  
-## Meetups
-
-- [NestJS London](https://www.meetup.com/NestJS-London/)
 
 ## Contribute
 

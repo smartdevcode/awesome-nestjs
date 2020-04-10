@@ -119,8 +119,6 @@
   - [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) - An unofficial TypeScript StyleGuide.
 - Web Sockets
   - [Official](https://docs.nestjs.com/websockets/gateways)
-- Redis
-  - [Nest Ioredis](https://github.com/nest-modules/ioredis) - A ioredis module for Nest framework.
 - Mail
   - [Nest Mailer](https://github.com/partyka95/nest-mailer) - A mailer module for Nest framework.
 - API
@@ -174,6 +172,7 @@
     - [Nestjs Snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) - Vscode nestjs code Snippets.
 - AMQP
   - [Nestjs AMQP](https://github.com/nestjsx/nestjs-amqp) - An amqp connection manager.
+  - [Nestjs RabbitMQ](https://github.com/AlariCode/nestjs-rmq) - A custom library for NestJS microservice. It allows you to use RabbitMQ or AMQP.
 - EventStore
   - [Nestjs EventStore](https://github.com/juicycleff/nestjs-event-store) - An evenstore.org module for NestJs CQRS with adapter support to persist lastcheckpoint for Catchup subscription.
 - Payment Gateways

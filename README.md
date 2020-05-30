@@ -102,10 +102,11 @@
 - Open Source
   - [EVE Book API](https://github.com/evebook/api) - :milky_way: EVE Book API
   - [Ever®](https://github.com/ever-co/ever) - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
+  - [Feednext](https://feednext.io) - Open-Source Social Media Application
   - [Gauzy](https://github.com/ever-co/gauzy) - Open-Source Profits Sharing Platform for modern agencies and studios
   - [LXDhub](https://github.com/Roche/lxdhub) - Management system for Linux Containers (LXC).
   - [Notadd](https://github.com/notadd/notadd) - Microservice development architecture
-  - [Pimp My PR](https://github.com/valueadd-poland/pimp-my-pr) - Open-Source platform for statistics and pull request management 
+  - [Pimp My PR](https://github.com/valueadd-poland/pimp-my-pr) - Open-Source platform for statistics and pull request management
 
 ## Components & Libraries
 
@@ -168,6 +169,7 @@
   - [Nestjs + Auth0](https://github.com/cdiaz/nestjs-auth0) - NestJS Framework web application with Auth0.
 - Databases
   - [Typeorm](https://github.com/nestjs/typeorm) - A TypeORM module for Nest framework [[Tutorial](http://docs.nestjs.com/recipes/sql-typeorm)].
+  - [Nest Typeorm Factories](https://github.com/owl1n/typeorm-factories) - A TypeORM Entities factories. Useful for NestJS unit testing.
   - [Nest Mongoose](https://github.com/nestjs/mongoose) - A Mongoose module for Nest framework.
   - [Nest Typegoose](https://github.com/kpfromer/nestjs-typegoose) - A [Typegoose](https://github.com/szokodiakos/typegoose) module for Nest framework
   - [Nest Sequelize JWT](https://github.com/adrien2p/nest-js-sequelize-jwt) - Starter kit Nest + Sequelize + jwt.

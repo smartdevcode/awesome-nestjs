@@ -84,7 +84,6 @@
   - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) Starter project that includes API for user email authentication with MongoDB and PassportJs.
 - Boilerplate
   - [Nest starter kit](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
-  - [SQB NestJS Boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding!
   - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
   - [Nest Template](https://github.com/Saluki/nestjs-template) - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments.
   - [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) - A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
@@ -122,6 +121,7 @@
   - [Nest Toolbox](https://github.com/lupu60/nestjs-toolbox) - The repository contains a suite of components and modules for NestJS.
   - [Nest AutoMapper](https://github.com/nestjsx/automapper) - AutoMapper Module for NestJS.
   - [Nest Multer Extended](https://github.com/jeffminsungkim/nestjs-multer-extended) - Extended MulterModule for NestJS framework with flexible Amazon S3 upload and helpful features.
+  - [Nonfig Config](https://github.com/nonfig/nestjs-config) - A module for [Nonfig](https://www.nonfig.com) Configuration Management Service. Nonfig combines Configurations and Features. So you change features, and release swiftly, and measure to digital impact.
 - State Management
   - [Ngrx Nest](https://github.com/derekkite/ngrx-nest) - ngrx/store and ngrx/effects on the server using the nest framework.
 - Code Style
@@ -212,7 +212,8 @@
   - [Nest Telegraf](https://github.com/bukhalo/nestjs-telegraf) - A module for creating Telegram bots using NestJS, based on [Telegraf](https://github.com/telegraf/telegraf).
 - File Storage
   - [Nest Storage](https://github.com/codebrewlab/nestjs-storage) - A manage file storage module([flydrive](https://github.com/Slynova-Org/flydrive)) for NestJS Framework.
-
+- Cloud Managed Configuration
+  - [Nonfig Config](https://github.com/nonfig/nestjs-config) - A module for [Nonfig](https://www.nonfig.com) Configuration Management Service. Nonfig combines Configurations and Features. So you change features, and release swiftly, and measure to digital impact.
 
 ## Runtime
 

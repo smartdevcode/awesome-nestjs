@@ -84,6 +84,7 @@
   - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) Starter project that includes API for user email authentication with MongoDB and PassportJs.
 - Boilerplate
   - [Nest starter kit](https://github.com/kentloog/nestjs-sequelize-typescript) - Nest + sequelize-typescript + JWT + Jest + Swagger.
+  - [SQB NestJS Boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding!
   - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
   - [Nest Template](https://github.com/Saluki/nestjs-template) - Scaffold your next TypeScript API with this production-ready NestJS template crafted for Docker environments.
   - [MEAN Todo with NestJS](https://github.com/nartc/nest-mean) - A simple Todo application with NestJS and Swagger. Included Authorization/Authentication.
@@ -203,6 +204,7 @@
   - [Nest Memcached](https://github.com/nest-cloud/nest-memcached) - A memcached module for Nest framework.
 - Frontend
   - [Nest CRUD React Admin](https://github.com/FusionWorks/react-admin-nestjsx-crud-dataprovider) - A React Admin data provider for [NextJS CRUD](https://github.com/nestjsx/crud).
+  - [Nest AdminBro](https://github.com/SoftwareBrothers/admin-bro-nestjs) - NestJS plugin for [AdminBro](https://github.com/SoftwareBrothers/admin-bro), an automatic admin interface which can be plugged into your application.
 - Scheduling
   - [Nest Bull](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework.
 - Workflow Automation

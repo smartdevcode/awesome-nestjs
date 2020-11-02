@@ -98,6 +98,7 @@
   - [NestJS GraphQL Boilerplate](https://github.com/fernandohenriques/nestjs-graphql-boilerplate) - Dockerized API boilerplate with NestJS, TypeORM, TypeGrapQL, MongoDB, GraphQL and automated tasks with Makefile. Code first approach.
   - [The Knests Stack](https://github.com/tudorconstantin/knests/) - Full stack/end starter with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React, Material-UI, Docker multistage images for, Docker compose and a GitLab CI/CD pipeline fully configured.
   - [Nest Hackathon Starter](https://github.com/ahmetuysal/nest-hackathon-starter) - Hackathon starter project for NestJS. Includes TypeORM, email verification, Passport-JWT authentication, Swagger and more.
+  - [Stator](https://github.com/chocolat-chaud-io/stator) - A full-stack boilerplate that does it all - automatic releases, deployments, enforced conventions.
 
 ## Projects using NestJS
 
@@ -129,7 +130,6 @@
 - Web Sockets
   - [Official](https://docs.nestjs.com/websockets/gateways)
 - Mail
-  - [Mailman](https://github.com/squareboat/nest-mailman) - The only 📮 mailer package you need for your NestJS Applications.
   - [Nest Mailer](https://github.com/partyka95/nest-mailer) - A mailer module for Nest framework.
 - API
   - [Swagger](https://github.com/nestjs/swagger) - This's an OpenAPI (Swagger) module for Nest. _[[Tutorial](https://docs.nestjs.com/recipes/swagger)]_.
@@ -138,7 +138,6 @@
 - Middleware
   - [Nest Middlewares](https://github.com/wbhob/nest-middlewares) - Common, injectable middlewares for NestJS.
 - Errors
-  - [Eyewitness](https://github.com/squareboat/nest-eyewitness) - Receive error reports directly to your inbox whenever any exception is witnessed 👀 in your NestJS application.
   - [Nest Flub](https://github.com/shekohex/nestjs-flub) - Pretty Error :tired_face: Stack Viewer for NestJS Framework :hammer_and_wrench:.
   - [Nest Enlighten](https://github.com/ozkanonur/nestjs-enlighten) - A laravel-ignition like error page for NestJS Framework
   - [Nest Rate Limiter](https://github.com/ozkanonur/nestjs-rate-limiter) - A highly configurable rate limiter library.
@@ -206,6 +205,7 @@
   - [Nest Memcached](https://github.com/nest-cloud/nest-memcached) - A memcached module for Nest framework.
 - Frontend
   - [Nest CRUD React Admin](https://github.com/FusionWorks/react-admin-nestjsx-crud-dataprovider) - A React Admin data provider for [NextJS CRUD](https://github.com/nestjsx/crud).
+  - [Nest AdminBro](https://github.com/SoftwareBrothers/admin-bro-nestjs) - NestJS plugin for [AdminBro](https://github.com/SoftwareBrothers/admin-bro), an automatic admin interface which can be plugged into your application.
 - Scheduling
   - [Nest Bull](https://github.com/nestjsx/nest-bull) - A Bull module for Nest framework.
 - Workflow Automation
@@ -214,7 +214,8 @@
   - [Nest Telegraf](https://github.com/bukhalo/nestjs-telegraf) - A module for creating Telegram bots using NestJS, based on [Telegraf](https://github.com/telegraf/telegraf).
 - File Storage
   - [Nest Storage](https://github.com/codebrewlab/nestjs-storage) - A manage file storage module([flydrive](https://github.com/Slynova-Org/flydrive)) for NestJS Framework.
-
+- Cloud Managed Configuration
+  - [Nonfig Config](https://github.com/nonfig/nestjs-config) - A module for [Nonfig](https://www.nonfig.com) Configuration Management Service. Nonfig combines Configurations and Features. So you change features, and release swiftly, and measure to digital impact.
 
 ## Runtime
 

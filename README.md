@@ -84,7 +84,6 @@
   - [Serverless-Lambda-FirestoreDB](https://github.com/mamori-i-japan/mamori-i-japan-api) - A fully SERVERLESS in-production application with AWS Lambda, FirestoreDB, Firebase Auth, Winston Logger, Swagger. Also implements admin role authorization.
   - [Serverless NestJS TypeOrm](https://github.com/kop7/serverless-nestjs-typeorm) - Example how to NestJS using the serverless framework with TypeORM.
   - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) - Starter project that includes API for user email authentication with MongoDB and PassportJs.
-  - [NestJS Project Structure](https://github.com/CatsMiaow/node-nestjs-structure) - Example of constructing a project structure with NestJS
 - Boilerplate
   - [SQB NestJS Boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding!.
   - [Nest BFF](https://github.com/ahrnee/nestjs-bff) - A boilerplate [BFF](https://samnewman.io/patterns/architectural/bff/) web application starter-project using NestJS. Includes CLI, and MongoDB migrations features.
@@ -98,6 +97,7 @@
   - [Nest Mongo Graphql](https://github.com/benawad/nest-mongo-graphql/) - Starter Kit using NestJS MongoDB Graphql and type-graphql [https://typegraphql.ml/](https://typegraphql.ml/) inspired the type schema first approach.
   - [Ultimate Backend](https://github.com/juicycleff/ultimate-backend) - Enterprise multi-tenant SaaS starter kit with CQRS GraphQL microservice architecture, apollo federation, event source and authentication.
   - [NestJS GraphQL Boilerplate](https://github.com/fernandohenriques/nestjs-graphql-boilerplate) - Dockerized API boilerplate with NestJS, TypeORM, TypeGraphQL, MongoDB, GraphQL and automated tasks with Makefile. Code first approach.
+  - [NextJS & NestJS GraphQL Starter](https://github.com/tomanagle/NextJS-NestJS-GraphQL-Starter) - GraphQL NestJS with NextJS boilerplace. Includes GitHub, Reddit & Google OAuth.
   - [The Knests Stack](https://github.com/tudorconstantin/knests/) - Full stack/end starter with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React, Material-UI, Docker multistage images for, Docker compose and a GitLab CI/CD pipeline fully configured.
   - [Nest Hackathon Starter](https://github.com/ahmetuysal/nest-hackathon-starter) - Hackathon starter project for NestJS. Includes TypeORM, email verification, Passport-JWT authentication, Swagger and more.
   - [Stator](https://github.com/chocolat-chaud-io/stator) - A full-stack boilerplate that does it all - automatic releases, deployments, enforced conventions.

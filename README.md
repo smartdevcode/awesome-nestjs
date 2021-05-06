@@ -85,6 +85,7 @@
   - [Serverless NestJS TypeOrm](https://github.com/kop7/serverless-nestjs-typeorm) - Example how to NestJS using the serverless framework with TypeORM.
   - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) - Starter project that includes API for user email authentication with MongoDB and PassportJs.
   - [NestJS Project Structure](https://github.com/CatsMiaow/node-nestjs-structure) - Example of constructing a project structure with NestJS.
+  - [TypeScript Clean Architecture](https://github.com/pvarentsov/typescript-clean-architecture) - Clean Architecture based application with NestJS, PostgreSQL and TypeORM.
 - Boilerplate
   - [NestJS Permission Boilerplate](https://github.com/Ferdysd96/nestjs-permission-boilerplate) - This is a basic NestJS boilerplate project built on the more powerful Node.js framework. The main purpose of this project is to dynamically handle roles and permissions assigned to the user.
   - [SQB NestJS Boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding!.
@@ -134,6 +135,8 @@
   - [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) - An unofficial TypeScript StyleGuide.
 - Web Sockets
   - [Official](https://docs.nestjs.com/websockets/gateways)
+- Redis
+  - [Nest Ioredis](https://github.com/nest-modules/ioredis) - A ioredis module for Nest framework.
 - Mail
   - [Mailman](https://github.com/squareboat/nest-mailman) - The only 📮 mailer package you need for your NestJS Applications.
   - [Nest Mailer](https://github.com/partyka95/nest-mailer) - A mailer module for Nest framework.

@@ -85,7 +85,6 @@
   - [Serverless NestJS TypeOrm](https://github.com/kop7/serverless-nestjs-typeorm) - Example how to NestJS using the serverless framework with TypeORM.
   - [Passport Email Auth](https://github.com/marcomelilli/nestjs-email-authentication) - Starter project that includes API for user email authentication with MongoDB and PassportJs.
   - [NestJS Project Structure](https://github.com/CatsMiaow/node-nestjs-structure) - Example of constructing a project structure with NestJS.
-  - [TypeScript Clean Architecture](https://github.com/pvarentsov/typescript-clean-architecture) - Clean Architecture based application with NestJS, PostgreSQL and TypeORM.
 - Boilerplate
   - [NestJS Permission Boilerplate](https://github.com/Ferdysd96/nestjs-permission-boilerplate) - This is a basic NestJS boilerplate project built on the more powerful Node.js framework. The main purpose of this project is to dynamically handle roles and permissions assigned to the user.
   - [SQB NestJS Boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding!.
@@ -178,6 +177,8 @@
   - [Nest Keycloak Admin](https://github.com/relevantfruit/nestjs-keycloak-admin) - Keycloak Admin Client with support for User Managed Access protocol.
 - Multi Tenancy
   - [Nestjs MTenant](https://github.com/AlexanderC/nestjs-mtenant) - A module for NestJS to enable multitenancy support with deep integration into the system as whole (based on `async_hooks`).
+- Microservice
+  - [NestJS PG Notify](https://github.com/pvarentsov/nestjs-pg-notify) - NestJS custom transport strategy for PostgreSQL Pub/Sub.
   
 ## Integrations
 

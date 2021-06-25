@@ -106,6 +106,7 @@
   - [The Knests Stack](https://github.com/tudorconstantin/knests/) - Full stack/end starter with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React, Material-UI, Docker multistage images for, Docker compose and a GitLab CI/CD pipeline fully configured.
   - [Nest Hackathon Starter](https://github.com/ahmetuysal/nest-hackathon-starter) - Hackathon starter project for NestJS. Includes TypeORM, email verification, Passport-JWT authentication, Swagger and more.
   - [Stator](https://github.com/chocolat-chaud-io/stator) - A full-stack boilerplate that does it all - automatic releases, deployments, enforced conventions.
+  - [NestJS REST Starter Kit - By MonstarLab](https://github.com/monstar-lab-oss/nestjs-starter-rest-api) - Features: JWT Auth, RBAC Authorization, TypeORM, winston logger, Pagination, Auto-generated Swagger. Other: prettier, commit-linting husky hooks, SonarCloud, docker-compose.
 
 ## Projects using NestJS
 
@@ -170,6 +171,7 @@
   - [Nest Status Monitor](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for NestJS based node servers.
   - [Nest Terminus](https://github.com/nestjs/terminus) - Integrated healthchecks, based on [Terminus](https://github.com/godaddy/terminus) package.
   - [Nest X-Ray](https://github.com/narando/nest-xray) - Record incoming and outgoing request for [AWS X-Ray](https://aws.amazon.com/xray/), also supports custom instrumentation.
+  - [Nest OpenTelemetry (OTEL)](https://github.com/pragmaticivan/nestjs-otel) - OpenTelemetry module for NestJS.
 - i18n
   - [Nest i18n](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
 - Event

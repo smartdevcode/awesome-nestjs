@@ -113,7 +113,7 @@
 - Open Source
   - [EVE Book API](https://github.com/evebook/api) - EVE Book API.
   - [Ever®](https://github.com/ever-co/ever) - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces.
-  - [Feednext](https://feednext.io) - Open-Source Social Media Application.
+  - [Feednext](https://github.com/feednext/feednext) - Open-Source Social Media Application.
   - [Gauzy](https://github.com/ever-co/gauzy) - Open-Source Profits Sharing Platform for modern agencies and studios.
   - [LXDhub](https://github.com/Roche/lxdhub) - Management system for Linux Containers (LXC).
   - [Notadd](https://github.com/notadd/notadd) - Microservice development architecture.
@@ -171,6 +171,7 @@
   - [Nest Status Monitor](https://github.com/GenFirst/nest-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for NestJS based node servers.
   - [Nest Terminus](https://github.com/nestjs/terminus) - Integrated healthchecks, based on [Terminus](https://github.com/godaddy/terminus) package.
   - [Nest X-Ray](https://github.com/narando/nest-xray) - Record incoming and outgoing request for [AWS X-Ray](https://aws.amazon.com/xray/), also supports custom instrumentation.
+  - [Nest OpenTelemetry (OTEL)](https://github.com/pragmaticivan/nestjs-otel) - OpenTelemetry module for NestJS.
 - i18n
   - [Nest i18n](https://github.com/ToonvanStrijp/nestjs-i18n) - Adds i18n support easily to your server, with a rich formatting api build in.
 - Currency
